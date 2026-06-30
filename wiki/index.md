@@ -6,7 +6,8 @@
 
 ## 📂 按主题分类
 
-*(暂无条目 — 丢文件到 `raw/` 让 Agent 开始消化吧)*
+### 🤖 AI & 知识库
+- [[ragflow_enterprise_tuning_guide]] — RAGFlow 企业级本地知识库参数调优与最佳实践指南 (2026-06-30)
 
 ---
 
@@ -15,6 +16,7 @@
 | 页面 | 简述 | 最后更新 |
 |------|------|----------|
 | [[主页]] | 知识枢纽页 | — |
+| [[ragflow_enterprise_tuning_guide]] | RAGFlow DDU、漏斗检索、Graph RAG、RAPTOR、SOP | 2026-06-30 |
 
 ---
 
